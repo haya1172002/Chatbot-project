@@ -1,0 +1,66 @@
+
+AI FULL COURSE OVERVIEW
+
+This AI course provides a complete roadmap from basic programming to advanced Generative AI and Large Language Models (LLMs). It combines theoretical knowledge and hands-on implementation using Python and R programming languages.
+
+1. PROGRAMMING FOUNDATIONS
+- Python: The core language used in AI and ML. Covers syntax, data types, loops, functions, and libraries like NumPy, Pandas, and Matplotlib.
+- R: Focused on data analysis, visualization, and statistical modeling.
+
+2. MACHINE LEARNING (ML)
+- Understanding supervised, unsupervised, and reinforcement learning.
+- Algorithms like Linear Regression, Decision Trees, Random Forest, SVM, and KNN.
+- Using scikit-learn for model training, testing, and evaluation.
+- Feature Engineering – transforming raw data into meaningful input for models.
+
+3. DEEP LEARNING (DL)
+- Building neural networks using TensorFlow, Keras, and PyTorch.
+- Concepts: activation functions, loss functions, backpropagation, and optimization.
+- Advanced architectures: CNN, RNN, LSTM, GANs, VAEs.
+
+4. NATURAL LANGUAGE PROCESSING (NLP)
+- Text preprocessing: tokenization, stemming, lemmatization, and stopword removal.
+- Applications: text classification, sentiment analysis, chatbots, and language translation.
+- Using pre-trained models and embeddings for LLMs.
+
+5. TIME SERIES (TS) ANALYSIS
+- Forecasting models like ARIMA, SARIMA, Prophet, and LSTM for sequential data.
+- Applications: stock prediction, temperature forecasting, and sales analysis.
+
+6. GENERATIVE AI (GENAI)
+- Creating new content (text, images, audio) using AI models.
+- Working with LLMs, Diffusion Models, GANs, and VAEs.
+- Tools: Ollama, LangChain, and RAG (Retrieval-Augmented Generation).
+
+7. LARGE LANGUAGE MODELS (LLM)
+- Understanding architecture (transformers, attention mechanism).
+- Building and running LLMs locally using Ollama.
+- Using LangChain to connect models with external data, APIs, and vector databases.
+
+8. COMPUTER VISION (CV)
+- OpenCV for image processing, filtering, and transformation.
+- Face Detection and Object Detection using SSD, YOLO, and Haar cascades.
+- Fire Detection and anomaly detection using custom-trained CNN models.
+
+9. DATA HANDLING AND ETL
+- ETL (Extract, Transform, Load): moving data from raw sources to usable formats.
+- Data Wrangling, Manipulation, and Transformation using Pandas and NumPy.
+- Data Preprocessing: cleaning, normalizing, and preparing data for ML/DL.
+
+10. DATA VISUALIZATION & ANALYSIS
+- Creating visual insights with Matplotlib, Seaborn, and Plotly.
+- Performing exploratory data analysis (EDA) to understand patterns and trends.
+
+11. SPEECH RECOGNITION & ETHICS
+- Speech Recognition: converting spoken words to text using AI models.
+- AI Ethics: responsible AI usage, bias mitigation, transparency, and privacy.
+
+12. TOOLS AND FRAMEWORKS SUMMARY
+Programming: Python, R
+ML/DL: TensorFlow, Keras, PyTorch, Scikit-learn
+GenAI & LLM: Ollama, LangChain, RAG
+CV: OpenCV, YOLO, SSD
+Data: Pandas, NumPy
+Visualization: Matplotlib, Seaborn
+Speech: SpeechRecognition, Whisper
+Ethics: Responsible AI Guidelines
